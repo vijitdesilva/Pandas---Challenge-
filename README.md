@@ -1,2 +1,2 @@
-# Pandas---Challenge-
+# Pandas_Challenge
 Assignement - HeroesOfPymoli
